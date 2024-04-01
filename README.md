@@ -1,5 +1,5 @@
-                                                                 Name:Pradeep V
-                                                                 Reg No:212223240119
+                                                                                       Name:Pradeep V
+                                                                                       Reg No:212223240119
                                                     
 # EX-6:Series Queues with infinite capacity - Open Jackson Network
 
